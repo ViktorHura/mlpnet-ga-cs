@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\bin\Release\mlp-net-ga-cs.exe.config
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\bin\Release\mlp-net-ga-cs.exe.manifest
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\bin\Release\mlp-net-ga-cs.application
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\bin\Release\mlp-net-ga-cs.exe
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\bin\Release\mlp-net-ga-cs.pdb
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\bin\Release\MedallionRandom.dll
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\bin\Release\MedallionRandom.xml
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\obj\Release\mlp-net-ga-cs.csprojAssemblyReference.cache
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\obj\Release\mlp-net-ga-cs.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\obj\Release\mlp-net-ga-cs.exe.manifest
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\obj\Release\mlp-net-ga-cs.application
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\obj\Release\mlp-net-ga-cs.csproj.CopyComplete
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\obj\Release\mlp-net-ga-cs.exe
+C:\Users\Viktor\Desktop\CS\mlp-net-ga-cs\obj\Release\mlp-net-ga-cs.pdb
